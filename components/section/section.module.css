@@ -1,0 +1,12 @@
+.container {
+  min-height: 60vh;
+  display: grid;
+  place-items: center;
+  margin: 0;
+  line-height: 1.15;
+  font-size: 4rem;
+}
+
+.container .title {
+  font-size: 6rem;
+}
